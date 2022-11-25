@@ -1,6 +1,6 @@
 module.exports = {
     app: {
-        token: 'NDE5NjAxNjY0MTExMTQ5MDc3.Git7Sd.i81rX5vcTRCKPZbT8SrSXENR0j7EzRl1cOvX-Q',
+        token: 'token',
         playing: 'O Miranha Bot',
         global: true,
         guild: 'XXX'
